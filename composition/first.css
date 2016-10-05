@@ -1,0 +1,141 @@
+* { padding: 0; margin: 0 }
+body { 
+  height: 100%; 
+  white-space: nowrap; 
+  background-image:url("http://33.media.tumblr.com/143eaf067566020adf372dfe89192750/tumblr_mgxr86CtY31r4zr2vo1_500.gif");
+  font-size: 40px;
+  font-family: "arial", Times, serif;
+  
+}
+html { height: 100% }
+
+.red { 
+  background: red 
+  
+}
+.blue { 
+  background: blue 
+  
+}
+
+.yellow {
+  background: yellow 
+  
+}
+
+.header {
+  width: 100%; height: 10%; position: fixed; background: red;
+  
+}
+
+.wrapper { 
+  width: 150%; height: 1%; background: white 
+}
+  
+.page { 
+  width: 10%; height: 100%; float: left 
+}
+
+.rec1 {
+    background-color: blue;
+    width: 200px;
+    height: 900px;
+    position: absolute;
+    top: 38px ;
+  }
+  
+  .red {
+    width: 200px;
+    height: 900px;
+    position: absolute;
+    left: 250px;
+    top: 30px;
+  }
+  
+    .yellow {
+    background-color:yellow ;
+    width: 200px;
+    height: 900px;
+    position: absolute;
+    left: 500px;
+    top: 38px;
+  }
+  
+.page {
+    background-color:red ;
+    width: 200px;
+    height: 900px;
+    position: absolute;
+    left: 750px;
+    top: 30px;
+  }
+  
+.blue {
+    background-color:green ;
+    width: 200px;
+    height: 900px;
+    position: absolute;
+    left: 1000px;
+    top: 38px;
+  }
+  
+  .blue2 {
+    background-color:blue ;
+    width: 200px;
+    height: 900px;
+    position: absolute;
+    left: 1500px;
+    top: 3px;
+  }
+  
+  .red2 {
+    background-color:red ;
+    width: 200px;
+    height: 900px;
+    position: absolute;
+    left: 1250px;
+    top: 3px;
+  }
+  
+    .red3 {
+    background-color:red ;
+    width: 200px;
+    height: 900px;
+    position: absolute;
+    left: 1750px;
+    top: 3px;
+  }
+  
+  .yellow2 {
+    background-color:yellow ;
+    width: 200px;
+    height: 900px;
+    position: absolute;
+    left: 2000px;
+    top: 3px;
+  }
+  
+  
+  a:link {
+    
+    text-decoration: none;
+    color:black;
+}
+
+a:visited {
+    
+    text-decoration: none;
+    color:black;
+}
+
+a:hover {
+    
+    text-decoration: none;
+    color:pink;
+}
+
+a:active {
+    
+    text-decoration: none;
+    color:blue;
+}
