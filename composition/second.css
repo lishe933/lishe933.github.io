@@ -22,4 +22,15 @@ body {
 		left:0px;
 		color:red;
 		
-	}
+}
+
+a {
+	position:absolute;
+	top:20px;
+	left:20px;
+}
+
+.homepage {
+	font-family: arial
+	
+}
