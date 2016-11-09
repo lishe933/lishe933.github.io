@@ -33,8 +33,7 @@ $("body").addClass("gradient");
 var clicked = false;
 
 $("#toggle").click(function(){
-    if (clicked == false) 
-        {
+    if (clicked == false) {
         console.log("you clicked it...");
         $("#status").html("GO");
         $("#status").css("background-color","green");
@@ -48,12 +47,24 @@ $("#toggle").click(function(){
          clicked =  false;
         } 
         
-      $("#cat").css("display", "none");
-    $("#cat").css("display", "block");
-    
-        
+     
     });
-
+    
+    $("#status").mouseenter(function() { 
+    console.log("you did it..."); 
+    if (clicked == true) {
+        $("#cat").show();
+    }
+    
+    });
+    
+    
+    $("#status").mouseleave(function() {
+    $("#cat").hide();
+    
+    });
+    
+ 
 
 
 
