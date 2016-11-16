@@ -21,7 +21,7 @@ $(".dot").mouseover(function(){
    
     });
     
-    $(".dot").mouseover(function(){
+    $(".dot2").mouseover(function(){
     $(".dot2").css("opacity", "0"); 
         
   
