@@ -94,6 +94,7 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
 .dot2{
 	width: 200px;
 	height: 200px;
@@ -116,6 +117,7 @@ textarea {
 	left:50%;
 	top:50%;
 	transform: translate(-50%,-50%);
+    z-index:4;
 }
 
 .dot3{
@@ -170,6 +172,55 @@ textarea {
 	transform: translate(-50%,-50%);
 	z-index:6;
 }
+
+.dot7{
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	border-radius: 350px;
+	position:absolute;
+	left:50%;
+	top:50%;
+	transform: translate(-50%,-50%);
+	z-index:11;
+}
+
+.dot8{
+	width: 800px;
+	height: 800px;
+	background-color: white;
+	border-radius: 500px;
+	position:absolute;
+	left:50%;
+	top:50%;
+	transform: translate(-50%,-50%);
+	z-index:3;
+}
+
+.dot9{
+	width: 900px;
+	height: 900px;
+	background-color: purple;
+	border-radius: 500px;
+	position:absolute;
+	left:50%;
+	top:50%;
+	transform: translate(-50%,-50%);
+	z-index:2;
+}
+
+.text{
+    color: white;
+    font-size: 15px;
+    text-align: left;
+    position: absolute;
+    right: 0px;
+    width: 300px;
+}
+
+
+
+
 
 
 

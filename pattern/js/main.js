@@ -7,7 +7,10 @@ $("body").append("<div class = 'dot'></div>");
 
 }
 
-var mouseeneter = false;
+for (var i = 0; i ; i++)
+      
+        
+ }); 
 
 $(".dot").mouseover(function(){
     $(".dot").css("opacity", "0"); 
