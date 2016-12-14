@@ -34,3 +34,8 @@ a {
 	font-family: arial
 	
 }
+
+.catalog {
+	position:relative;
+	margin-top:-750px;
+}
