@@ -4,3 +4,14 @@ body {
     font-size: 36px;
     font-family: 'Special Elite', cursive;
 }
+
+h1 {
+	top: 300px;
+    right: 150px;
+	position: fixed;
+}
+h2 {
+top: 400px;
+    right: 400px;
+	position: fixed;
+}
