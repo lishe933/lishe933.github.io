@@ -63,3 +63,15 @@ h2 {
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
 }
+
+.page3 {
+  text-align: center;
+  padding-top: 100px;
+  padding-right: 200px;
+  padding-left: 200px;
+}
+
+.page4 {
+  padding-top: 100px;
+  padding-right: 200px;
+  padding-left: 200px;
