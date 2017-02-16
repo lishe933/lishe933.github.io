@@ -1,7 +1,8 @@
 body { 
     font-size: 36px;
     font-family: 'Special Elite', cursive;
-    background-color:black;
+    background-color: black;
+    color: white;
 }
 
 h1 {
@@ -194,7 +195,7 @@ h2 {
 }
 
 .pill{
-   background-color: #4CAF50;
+   background-color: white;
     border: none;
     color: white;
     padding: 15px;
