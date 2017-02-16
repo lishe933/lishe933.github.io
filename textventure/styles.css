@@ -25,6 +25,47 @@ h2 {
 }
 
 
+/* Back Pulse */
+@-webkit-keyframes hvr-back-pulse {
+  50% {
+    background-color: rgba(32, 152, 209, 0.75);
+  }
+}
+@keyframes hvr-back-pulse {
+  50% {
+    background-color: rgba(32, 152, 209, 0.75);
+  }
+}
+.hvr-back-pulse {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  overflow: hidden;
+  -webkit-transition-duration: 1s;
+  transition-duration: 1s;
+  -webkit-transition-property: color, background-color;
+  transition-property: color, background-color;
+  text-decoration:none;
+}
+.hvr-back-pulse:hover, .hvr-back-pulse:focus, .hvr-back-pulse:active {
+  -webkit-animation-name: hvr-back-pulse;
+  animation-name: hvr-back-pulse;
+  -webkit-animation-duration: .5s;
+  animation-duration: .5s;
+  -webkit-animation-delay: .5s;
+  animation-delay: .5s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  background-color: #2098D1;
+  background-color: #2098d1;
+  color: white;
+}
+
+
 /* Buzz */
 @-webkit-keyframes hvr-buzz {
   50% {
@@ -192,15 +233,28 @@ h2 {
   left:0%;
   text-align: center;
  color:white;
-}
+ }
 
 .pill{
    background-color: white;
     border: none;
     color: white;
-    padding: 15px;
+    padding: 25px 200px 25px 25px;
+    border-radius: 500px;
     text-align: center;
-    margin: 4px;
+    margin: 40px;
+    cursor: pointer;
+ 
+}
+
+.pill2{
+   background-color: red;
+    border: none;
+    color: white;
+    padding: 25px 200px 25px 25px;
+    border-radius: 500px;
+    text-align: center;
+    margin: 40px;
     cursor: pointer;
  
 }
@@ -214,4 +268,42 @@ position: absolute;
   padding-top: 100px;
   padding-right: 200px;
   padding-left: 200px;
-  {
+}
+@-webkit-keyframes hvr-pulse {
+  25% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+  75% {
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+}
+@keyframes hvr-pulse {
+  25% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+  75% {
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+
+.hvr-pulse {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+}
+
+.hvr-pulse:hover, .hvr-pulse:focus, .hvr-pulse:active {
+  -webkit-animation-name: hvr-pulse;
+  animation-name: hvr-pulse;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
