@@ -33,12 +33,12 @@ padding:100px 100px 100px 100px;
 /* Back Pulse */
 @-webkit-keyframes hvr-back-pulse {
   50% {
-    background-color: rgba(32, 152, 209, 0.75);
+    background-color: rgba(790, 152, 209, 75);
   }
 }
 @keyframes hvr-back-pulse {
   50% {
-    background-color: rgba(32, 152, 209, 0.75);
+    background-color: rgba(32, 12, 209, 0.75);
   }
 }
 .hvr-back-pulse {
@@ -48,11 +48,12 @@ padding:100px 100px 100px 100px;
   transform: perspective(1px) translateZ(0);
   box-shadow: 0 0 1px transparent;
   overflow: hidden;
-  -webkit-transition-duration: 1s;
-  transition-duration: 1s;
+  -webkit-transition-duration: .5s;
+  transition-duration: .5s;
   -webkit-transition-property: color, background-color;
   transition-property: color, background-color;
   text-decoration:none;
+  color:white;
 }
 .hvr-back-pulse:hover, .hvr-back-pulse:focus, .hvr-back-pulse:active {
   -webkit-animation-name: hvr-back-pulse;
@@ -65,9 +66,9 @@ padding:100px 100px 100px 100px;
   animation-timing-function: linear;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
-  background-color: #2098D1;
-  background-color: #2098d1;
-  color: white;
+  background-color: white;
+  background-color: black;
+  color:white;
 }
 
 
