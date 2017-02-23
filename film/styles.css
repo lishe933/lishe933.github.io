@@ -4,7 +4,84 @@ body {
 
 .logo {
   text-align:center;
+  color: #485FF2;
+  font-family: helvetica;
+  font-size: 100px;
+}
+
+.movie-title {
+text-align:center;
+  color: red;
+  font-family: helvetica;
+  font-size: 90px;
+  background: #485FF2;
+
+}
+
+.date {
+text-align:center;
   color: red;
   font-family: helvetica;
   font-size: 100px;
+
+}
+
+.links{
+	text-align:center;
+  color: #485FF2;
+  font-family: helvetica;
+  font-size: 50px;
+}
+
+a {
+	text-decoration: none;
+	color: #485FF2;
+}
+
+.movie-info {
+
+	text-align:center;
+  color: #485FF2;
+  font-family: helvetica;
+  font-size: 50px;
+}
+
+.container {
+	color: transparent;
+	overflow: auto;
+	width: 100%
+}
+
+
+
+.info {
+	width: 45%;
+	float: left;
+	text-align:left;
+  color: red;
+  font-family: helvetica;
+  font-size: 50px;
+ 
+
+}
+
+.admission {
+
+
+width: 45%;
+	float: right;
+	text-align:right;
+  color: #485FF2;
+  font-family: helvetica;
+  font-size: 50px;
+ }
+
+
+div.left {
+	
+}
+
+div.right {
+	width: 45%;
+	float: right;
 }
