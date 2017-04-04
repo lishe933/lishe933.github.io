@@ -16,11 +16,19 @@ window.onload = function () {
   canvas.onmousemove = function (e) {
     topPosition = e.pageY,
     leftPosition = e.pageX;
-
     radius = Math.random()*5+20;
 
+// function clearcanvas1()
+// {
+//     var canvas = document.getElementById('canvas'),
+//         ctx = canvas.getContext("2d");
+//     ctx.clearRect(0, 0, canvas.width, canvas.height);
+// }
+
+    
+
 function gradient(color0, color2){
-fillColor = ctx.createLinearGradient(0, 0, 300, 150);
+var fillColor = ctx.createLinearGradient(0, 0, 300, 150);
   fillColor.addColorStop(0, color0);  //starting corner
   fillColor.addColorStop(1, color2);  //ending Corner
   ctx.fillStyle=fillColor;
@@ -49,5 +57,38 @@ gradient(colors[randomNumber], colors[randomNumber2]);
     ctx.closePath();
 
 
-  } 
-}
+}    
+
+};
+
+window.addEventListener("keyup",function(e) {
+  if (e.keyCode == 32){
+    console.log("hello");
+    window.location.reload();
+  }
+});
+
+//plus
+window.addEventListener("keyup",function(e) {
+  if (e.keyCode == 45){
+    console.log("hello");
+    window.location.reload();
+  }
+});
+
+
+//minus
+window.addEventListener("keyup",function(e) {
+  if (e.keyCode == 43){
+    console.log("hello");
+    window.location.reload();
+  }
+});
+
+//plus 43 minus 45
+
+
+
+
+
+
