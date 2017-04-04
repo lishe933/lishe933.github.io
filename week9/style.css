@@ -1,0 +1,25 @@
+.box {
+	position:relative;
+	width: 100px;
+	height: 100px;
+	background: lightblue;
+	float: left;
+	margin: 10px;
+	border: 2px solid blue;
+
+	transition: border-color 2s, background-color 1s,
+		margin-left 1s;
+
+		/*transition: all 0.5s;*/
+}
+
+.hovered {
+	border-color: pink;
+}
+
+.active {
+	margin-left: 100px;
+	background: yellow;
+}
+
+/*experiment with different events and transitions/*
