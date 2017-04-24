@@ -1,6 +1,6 @@
 var wrapper = document.querySelector(".saranwrap");
 
-for (i = 0; i < 23; i++) {
+for (i = 0; i < 15; i++) {
 	console.log(i);
 	var divtoinsert = document.createElement("div");
 	divtoinsert.classList.add("box", "divnumber" + i);
@@ -28,17 +28,38 @@ function addlisteners(thething, itsindex) {
 } 
 
 
-function toggle_state(theevent) {
+/*function toggle_state(theevent) {
 	if (this.classList.contains("active")) {
 		this.classList.remove("active");
 	}
 	else this.classList.add("active");
 }
-
+*/
 function addhover (e) {
 	this.classList.add("hovered");
 }
 
 function removehover(e) {
 	this.classList.remove("hovered")
+}
+
+function toggle_state(theevent) {
+
+	window.setInterval(delayer(this), 1000);
+}
+		
+
+function delayer(htmlelement) {
+	console.log('hello!')
+	if (htmlelement.classList.contains("active")) {
+		htmlelement.classList.remove("active")
+	}
+}
+
+
+/*window.setTimeout(delayer,3000);
+
+function delayer() {
+	document.querySelector(".divnumber10").classList.
+		add("active");
 }
