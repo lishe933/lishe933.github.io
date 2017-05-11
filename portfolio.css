@@ -1,0 +1,28 @@
+body{
+font-family: 'Oswald', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #485FF2;
+}
+
+
+.links{
+	text-align:center;
+  color: #485FF2;
+  font-size: 50px;
+  line-height: 200%;
+}
+
+.readings{
+ width: 500px;
+    margin: auto;
+    border: none;
+   }
+.readings:hover{
+	 background-color: yellow;
+	
+
+	
+}
