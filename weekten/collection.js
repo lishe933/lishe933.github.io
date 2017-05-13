@@ -935,7 +935,7 @@ var collection = [
 { 
 	"Daynumber" : 9,
 	"source" : "sourcelink", 
-	"image" : "greenil.jpg",
+	"image" : "highbook.jpg",
 	"disciplines": ["graphic design", "digital", "typography", "two dimensional"]
 	
 
@@ -951,7 +951,7 @@ var collection = [
 { 
 	"Daynumber" : 9,
 	"source" : "sourcelink", 
-	"image" : "4_1/city.jpg",
+	"image" : "4_1/madball.jpg",
 	"disciplines": ["graphic design", "digital", "typography"]
 	
 
@@ -1148,8 +1148,56 @@ var collection = [
 { 
 	"Daynumber" : 23,
 	"source" : "sourcelink", 
-	"image" : "4_1/wklein.jpg",
-	"disciplines": ["print", "typography"]
+	"image" : "4_1/joyian.jpg",
+	"disciplines": ["fine art", "two dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 23,
+	"source" : "sourcelink", 
+	"image" : "4_1/dali.jpg",
+	"disciplines": ["fine art", "two dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 23,
+	"source" : "sourcelink", 
+	"image" : "4_1/domo.jpg",
+	"disciplines": ["graphic design", "digital", "typography", "print"]
+	
+
+},
+{ 
+	"Daynumber" : 23,
+	"source" : "sourcelink", 
+	"image" : "4_1/elksen.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 24,
+	"source" : "sourcelink", 
+	"image" : "4_1/highbook.jpg",
+	"disciplines": ["graphic design", "digital", "typography"]
+	
+
+},
+{ 
+	"Daynumber" : 24,
+	"source" : "sourcelink", 
+	"image" : "4_1/baes.jpg",
+	"disciplines": ["fine art", "two dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 24,
+	"source" : "sourcelink", 
+	"image" : "4_1/amphi.jpg",
+	"disciplines": ["graphic design", "digital", "print"]
 	
 
 },
@@ -1157,8 +1205,56 @@ var collection = [
 { 
 	"Daynumber" : 24,
 	"source" : "sourcelink", 
-	"image" : "4_1/wklein.jpg",
-	"disciplines": ["print", "typography"]
+	"image" : "4_1/keith.jpg",
+	"disciplines": ["fine art", "two dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 24,
+	"source" : "sourcelink", 
+	"image" : "4_1/jingw.jpg",
+	"disciplines": ["photography", "art", "documentary" ]
+	
+
+},
+{ 
+	"Daynumber" : 24,
+	"source" : "sourcelink", 
+	"image" : "4_1/ianmc.jpg",
+	"disciplines": ["photography", "art", "documentary", "performance"]
+	
+
+},
+{ 
+	"Daynumber" : 24,
+	"source" : "sourcelink", 
+	"image" : "4_1/headspace.jpg",
+	"disciplines": ["graphic design", "digital", "typography"]
+	
+
+},
+{ 
+	"Daynumber" : 24,
+	"source" : "sourcelink", 
+	"image" : "4_1/highbook.jpg",
+	"disciplines": ["graphic design", "digital", "typography"]
+	
+
+},
+{ 
+	"Daynumber" : 24,
+	"source" : "sourcelink", 
+	"image" : "4_1/baes.jpg",
+	"disciplines": ["fine art", "two dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 24,
+	"source" : "sourcelink", 
+	"image" : "4_1/amphi.jpg",
+	"disciplines": ["graphic design", "digital", "print"]
 	
 
 },
@@ -1191,7 +1287,7 @@ var collection = [
 	"Daynumber" : 25,
 	"source" : "sourcelink", 
 	"image" : "4_1/thole.jpg",
-	"disciplines": ["fine art" "two dimensional"]
+	"disciplines": ["fine art", "two dimensional"]
 	
 
 },
@@ -1394,20 +1490,60 @@ var collection = [
 { 
 	"Daynumber" : 29,
 	"source" : "sourcelink", 
-	"image" : "4_1/wklein.jpg",
-	"disciplines": ["print", "typography"]
+	"image" : "4_1/goldie.jpg",
+	"disciplines": [ "graphic design", "digital", "typography", "photography", "art", "documentary"]
 	
 
 },
-/////DAY 30//////
 { 
-	"Daynumber" : 30,
+	"Daynumber" : 29,
 	"source" : "sourcelink", 
-	"image" : "4_1/wklein.jpg",
-	"disciplines": ["print", "typography"]
+	"image" : "4_1/hair.jpg",
+	"disciplines": ["photography", "art", "documentary" ]
 	
 
 },
+{ 
+	"Daynumber" : 29,
+	"source" : "sourcelink", 
+	"image" : "4_1/frainf.jpg",
+	"disciplines": ["graphic design", "digital", "typography", "print"]
+	
+
+},
+{ 
+	"Daynumber" : 29,
+	"source" : "sourcelink", 
+	"image" : "4_1/glory.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental", "performance"]
+	
+
+},
+{ 
+	"Daynumber" : 29,
+	"source" : "sourcelink", 
+	"image" : "4_1/bowie.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental", "performance"]
+	
+
+},
+{ 
+	"Daynumber" : 2,
+	"source" : "sourcelink", 
+	"image" : "4_1/bagg.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental", "performance"]
+	
+
+},
+{ 
+	"Daynumber" : 29,
+	"source" : "sourcelink", 
+	"image" : "4_1/agno.jpg",
+	"disciplines": ["photography", "documentary"]
+	
+
+},
+
 
 ];
 

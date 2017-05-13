@@ -10,9 +10,18 @@ var wrapper = document.getElementById("wrapper");
 var wrapperTwo = document.getElementById("wrapper2");
 var wrapperThree = document.getElementById("wrapper3");
 var wrapperFour = document.getElementById("wrapper4");
-var wrapperFive = document.getElementById("wrapper2");
-var wrapperSix = document.getElementById("wrapper3");
-
+var wrapperFive = document.getElementById("wrapper5");
+var wrapperSix = document.getElementById("wrapper6");
+var wrapperSeven = document.getElementById("wrapper7");
+var wrapperEight = document.getElementById("wrapper8");
+var wrapper = document.getElementById("wrapper");
+var wrapperTwo = document.getElementById("wrapper2");
+var wrapperTwentyFive = document.getElementById("wrapper25");
+var wrapperTwentySix = document.getElementById("wrapper26");
+var wrapperTwentySeven = document.getElementById("wrapper27");
+var wrapperTwentyEight = document.getElementById("wrapper28");
+var wrapperTwentyNine = document.getElementById("wrapper29");
+var wrapperThirty = document.getElementById("wrapper30");
 /////reveal for each day
 
 
@@ -27,7 +36,7 @@ var wrapperSix = document.getElementById("wrapper3");
             var filter = "None";
 
             function emptyHolder() {
-            for (var i = 1; i <= 7; i++) {
+            for (var i = 1; i <= 29; i++) {
 
             document.getElementById("wrapper" + i).innerHTML = "";
 
@@ -84,7 +93,7 @@ image.style.left =  Math.random() *150 + "px";
 
             update();
 
-            
+
 
 //Get the modal
 // Get the modal

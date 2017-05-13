@@ -18,17 +18,19 @@ h1 {
 h2{
   color:white;
    position: fixed;
-    left:1100px;
-    top:250px;
+    left:1050px;
+    top:230px;
 
 }
 
 #filter {
+  color:white;
   margin: 0 auto;
     overflow:auto;
      position: fixed;
-    left:1100px;
+    left:1050px;
     top:300px;
+    background-color:black;
 
 }
 

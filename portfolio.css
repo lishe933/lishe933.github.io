@@ -16,13 +16,104 @@ a {
 }
 
 .readings{
- width: 500px;
+ width: 600px;
     margin: auto;
     border: none;
    }
 .readings:hover{
-	 background-color: yellow;
-	
+	 background-color: yellow;  
+  transition: 500ms;
+  transition-timing-function: ease-in-out;
+  -webkit-transition: 500ms;
+  -webkit-transition-timing-function: ease-in-out;
 
 	
 }
+.venture{
+ width: 600px;
+    margin: auto;
+    border: none;
+   }
+.venture:hover{
+	 background-color: #83FF00;
+	 transition: 500ms;
+  transition-timing-function: ease-in-out;
+  -webkit-transition: 500ms;
+  -webkit-transition-timing-function: ease-in-out;
+		
+}
+.film{
+ width: 600px;
+    margin: auto;
+    border: none;
+   }
+.film:hover{
+	 background-color: red;
+	 transition: 500ms;
+  transition-timing-function: ease-in-out;
+  -webkit-transition: 500ms;
+  -webkit-transition-timing-function: ease-in-out;
+	
+}
+.java{
+ width: 600px;
+    margin: auto;
+    border: none;
+   }
+.java:hover{
+	 background-color: pink;
+	 transition: 500ms;
+  transition-timing-function: ease-in-out;
+  -webkit-transition: 500ms;
+  -webkit-transition-timing-function: ease-in-out;	
+}
+.ten{
+ width: 600px;
+    margin: auto;
+    border: none;
+   }
+.ten:hover{
+	 background-color: #7CE5FF;	
+	 transition: 500ms;
+  transition-timing-function: ease-in-out;
+  -webkit-transition: 500ms;
+  -webkit-transition-timing-function: ease-in-out;
+}
+.chalk{
+ width: 600px;
+    margin: auto;
+    border: none;
+   }
+.chalk:hover{
+	 background-color: #00EA83;
+	 transition: 500ms;
+  transition-timing-function: ease-in-out;
+  -webkit-transition: 500ms;
+  -webkit-transition-timing-function: ease-in-out;
+	
+}
+.wire{
+ width: 600px;
+    margin: auto;
+    border: none;
+   }
+.wire:hover{
+	 background-color: #FFBD00;
+	 transition: 500ms;
+  transition-timing-function: ease-in-out;
+  -webkit-transition: 500ms;
+  -webkit-transition-timing-function: ease-in-out;	
+}
+.final{
+ width: 600px;
+    margin: auto;
+    border: none;
+   }
+.final:hover{
+	 background-color: #E384FF;	
+	 transition: 500ms;
+  transition-timing-function: ease-in-out;
+  -webkit-transition: 500ms;
+  -webkit-transition-timing-function: ease-in-out;
+}
+
