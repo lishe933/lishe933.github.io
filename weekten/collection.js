@@ -1040,8 +1040,56 @@ var collection = [
 { 
 	"Daynumber" : 10,
 	"source" : "sourcelink", 
-	"image" : "4_1/wklein.jpg",
-	"disciplines": ["print", "typography"]
+	"image" : "4_1/goldie.jpg",
+	"disciplines": [ "graphic design", "digital", "typography", "photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 10,
+	"source" : "sourcelink", 
+	"image" : "4_1/hair.jpg",
+	"disciplines": ["photography", "art", "documentary" ]
+	
+
+},
+{ 
+	"Daynumber" : 10,
+	"source" : "sourcelink", 
+	"image" : "4_1/frainf.jpg",
+	"disciplines": ["graphic design", "digital", "typography", "print"]
+	
+
+},
+{ 
+	"Daynumber" : 10,
+	"source" : "sourcelink", 
+	"image" : "4_1/glory.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental", "performance"]
+	
+
+},
+{ 
+	"Daynumber" : 10,
+	"source" : "sourcelink", 
+	"image" : "4_1/bowie.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental", "performance"]
+	
+
+},
+{ 
+	"Daynumber" : 10,
+	"source" : "sourcelink", 
+	"image" : "4_1/bagg.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental", "performance"]
+	
+
+},
+{ 
+	"Daynumber" : 10,
+	"source" : "sourcelink", 
+	"image" : "4_1/agno.jpg",
+	"disciplines": ["photography", "documentary"]
 	
 
 },
@@ -1049,8 +1097,48 @@ var collection = [
 { 
 	"Daynumber" : 11,
 	"source" : "sourcelink", 
-	"image" : "4_1/wklein.jpg",
-	"disciplines": ["print", "typography"]
+	"image" : "4_1/sonic.jpg",
+	"disciplines": [ "graphic design", "digital", "typography",]
+	
+
+},
+{ 
+	"Daynumber" : 1,
+	"source" : "sourcelink", 
+	"image" : "4_1/milann.jpg",
+	"disciplines": ["photography", "art", "documentary" ]
+	
+
+},
+{ 
+	"Daynumber" : 11,
+	"source" : "sourcelink", 
+	"image" : "4_1/smearjpg.jpg",
+	"disciplines": ["graphic design", "digital", "typography", "print"]
+	
+
+},
+{ 
+	"Daynumber" : 11,
+	"source" : "sourcelink", 
+	"image" : "4_1/snapc.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental", "performance"]
+	
+
+},
+{ 
+	"Daynumber" : 11,
+	"source" : "sourcelink", 
+	"image" : "4_1/victoryrec.jpg",
+	"disciplines": ["graphic design", "digital", "typography", "print"]
+	
+
+},
+{ 
+	"Daynumber" : 11,
+	"source" : "sourcelink", 
+	"image" : "4_1/vienab.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental"]
 	
 
 },
@@ -1058,8 +1146,64 @@ var collection = [
 { 
 	"Daynumber" : 12,
 	"source" : "sourcelink", 
-	"image" : "4_1/wklein.jpg",
-	"disciplines": ["print", "typography"]
+	"image" : "4_1/cambell.jpg",
+	"disciplines": ["fine art", "two dimensional",]
+	
+
+},
+{ 
+	"Daynumber" : 12,
+	"source" : "sourcelink", 
+	"image" : "4_1/civildis.jpg",
+	"disciplines": ["fine art", "three dimensional", "photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 12,
+	"source" : "sourcelink", 
+	"image" : "4_1/boxed.jpg",
+	"disciplines": ["graphic design", "digital", "typography", "print"]
+	
+
+},
+{ 
+	"Daynumber" : 12,
+	"source" : "sourcelink", 
+	"image" : "4_1/boyscry.jpg",
+	"disciplines": ["graphic design", "digital", "typography", "print"]
+	
+
+},
+{ 
+	"Daynumber" : 12,
+	"source" : "sourcelink", 
+	"image" : "4_1/brains.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{
+	"Daynumber" : 12,
+	"source" : "sourcelink", 
+	"image" : "4_1/coll.jpg",
+	"disciplines": ["graphic design", "digital", "fine art", "two dimensional", "photography", "art", "experimental"]
+	
+
+},
+{ 
+	"Daynumber" : 12,
+	"source" : "sourcelink", 
+	"image" : "4_1/darkmatter.jpg",
+	"disciplines": ["fine art", "two dimensional", "photography", "art", "experimental"]
+	
+
+},
+{ 
+	"Daynumber" : 12,
+	"source" : "sourcelink", 
+	"image" : "4_1/demaria.jpg",
+	"disciplines": ["photography", "experimental"]
 	
 
 },
@@ -1067,8 +1211,64 @@ var collection = [
 { 
 	"Daynumber" : 13,
 	"source" : "sourcelink", 
-	"image" : "4_1/wklein.jpg",
-	"disciplines": ["print", "typography"]
+	"image" : "4_1/bluemas.jpg",
+	"disciplines": ["fine art", "two dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 13,
+	"source" : "sourcelink", 
+	"image" : "4_1/blacksh.jpg",
+	"disciplines": ["fine art", "two dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 13,
+	"source" : "sourcelink", 
+	"image" : "4_1/azwest.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental", "three dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 13,
+	"source" : "sourcelink", 
+	"image" : "4_1/bauhaus.jpg",
+	"disciplines": ["graphic design", "digital", "typography", "print"]
+	
+
+},
+{ 
+	"Daynumber" : 13,
+	"source" : "sourcelink", 
+	"image" : "4_1/bib.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental"]
+	
+
+},
+{ 
+	"Daynumber" : 13,
+	"source" : "sourcelink", 
+	"image" : "4_1/bigmask.jpg",
+	"disciplines": ["fine art", "two dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 13,
+	"source" : "sourcelink", 
+	"image" : "4_1/bill.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental"]
+	
+
+},
+{ 
+	"Daynumber" : 13,
+	"source" : "sourcelink", 
+	"image" : "4_1/bjork copy.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental"]
 	
 
 },
@@ -1076,8 +1276,64 @@ var collection = [
 { 
 	"Daynumber" : 14,
 	"source" : "sourcelink", 
-	"image" : "4_1/wklein.jpg",
-	"disciplines": ["print", "typography"]
+	"image" : "4_1/bluemas.jpg",
+	"disciplines": ["fine art", "two dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 14,
+	"source" : "sourcelink", 
+	"image" : "4_1/blacksh.jpg",
+	"disciplines": ["fine art", "two dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 14,
+	"source" : "sourcelink", 
+	"image" : "4_1/azwest.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental", "three dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 14,
+	"source" : "sourcelink", 
+	"image" : "4_1/bauhaus.jpg",
+	"disciplines": ["graphic design", "digital", "typography", "print"]
+	
+
+},
+{ 
+	"Daynumber" : 14,
+	"source" : "sourcelink", 
+	"image" : "4_1/bib.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental"]
+	
+
+},
+{ 
+	"Daynumber" : 14,
+	"source" : "sourcelink", 
+	"image" : "4_1/bigmask.jpg",
+	"disciplines": ["fine art", "two dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 14,
+	"source" : "sourcelink", 
+	"image" : "4_1/bill.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental"]
+	
+
+},
+{ 
+	"Daynumber" : 14,
+	"source" : "sourcelink", 
+	"image" : "4_1/bjork copy.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental"]
 	
 
 },
@@ -1085,8 +1341,64 @@ var collection = [
 { 
 	"Daynumber" : 15,
 	"source" : "sourcelink", 
-	"image" : "4_1/wklein.jpg",
+	"image" : "4_1/demode.jpg",
 	"disciplines": ["print", "typography"]
+	
+
+},
+{ 
+	"Daynumber" : 15,
+	"source" : "sourcelink", 
+	"image" : "4_1/elksen.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 15,
+	"source" : "sourcelink", 
+	"image" : "4_1/electric.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 15,
+	"source" : "sourcelink", 
+	"image" : "4_1/einstein.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 15,
+	"source" : "sourcelink", 
+	"image" : "4_1/earthc.jpg",
+	"disciplines": ["graphic design", "digital", "typography"]
+	
+
+},
+{ 
+	"Daynumber" : 15,
+	"source" : "sourcelink", 
+	"image" : "4_1/devo.jpg",
+	"disciplines": ["photography", "art", "documentary", "typography"]
+	
+
+},
+{ 
+	"Daynumber" : 15,
+	"source" : "sourcelink", 
+	"image" : "4_1/dugdale.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 15,
+	"source" : "sourcelink", 
+	"image" : "4_1/destroyed.jpg",
+	"disciplines": ["photography", "art", "documentary"]
 	
 
 },
@@ -1094,26 +1406,190 @@ var collection = [
 { 
 	"Daynumber" : 16,
 	"source" : "sourcelink", 
-	"image" : "4_1/wklein.jpg",
+	"image" : "4_1/demode.jpg",
 	"disciplines": ["print", "typography"]
 	
 
 },
+{ 
+	"Daynumber" : 16,
+	"source" : "sourcelink", 
+	"image" : "4_1/elksen.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 16,
+	"source" : "sourcelink", 
+	"image" : "4_1/electric.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 16,
+	"source" : "sourcelink", 
+	"image" : "4_1/einstein.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 16,
+	"source" : "sourcelink", 
+	"image" : "4_1/earthc.jpg",
+	"disciplines": ["graphic design", "digital", "typography"]
+	
+
+},
+{ 
+	"Daynumber" : 16,
+	"source" : "sourcelink", 
+	"image" : "4_1/devo.jpg",
+	"disciplines": ["photography", "art", "documentary", "typography"]
+	
+
+},
+{ 
+	"Daynumber" : 16,
+	"source" : "sourcelink", 
+	"image" : "4_1/dugdale.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 16,
+	"source" : "sourcelink", 
+	"image" : "4_1/destroyed.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+
 /////DAY 17//////
 { 
 	"Daynumber" : 17,
 	"source" : "sourcelink", 
-	"image" : "4_1/wklein.jpg",
-	"disciplines": ["print", "typography"]
+	"image" : "4_1/elksen.jpg",
+	"disciplines": ["photography", "art", "documentary"]
 	
 
 },
+{ 
+	"Daynumber" : 17,
+	"source" : "sourcelink", 
+	"image" : "4_1/electric.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 17,
+	"source" : "sourcelink", 
+	"image" : "4_1/einstein.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 17,
+	"source" : "sourcelink", 
+	"image" : "4_1/earthc.jpg",
+	"disciplines": ["graphic design", "digital", "typography"]
+	
+
+},
+{ 
+	"Daynumber" : 17,
+	"source" : "sourcelink", 
+	"image" : "4_1/eames.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 17,
+	"source" : "sourcelink", 
+	"image" : "4_1/dugdale.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 17,
+	"source" : "sourcelink", 
+	"image" : "4_1/discs.jpg",
+	"disciplines": ["graphic design", "digital"]
+	
+
+},
+
+
+
 /////DAY 18//////
 { 
 	"Daynumber" : 18,
 	"source" : "sourcelink", 
-	"image" : "4_1/wklein.jpg",
-	"disciplines": ["print", "typography"]
+	"image" : "4_1/codeo.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 18,
+	"source" : "sourcelink", 
+	"image" : "4_1/epharaim.jpg",
+	"disciplines": ["graphic design", "digital",]
+	
+
+},
+{ 
+	"Daynumber" : 18,
+	"source" : "sourcelink", 
+	"image" : "4_1/empire.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental"]
+	
+
+},
+{ 
+	"Daynumber" : 18,
+	"source" : "sourcelink", 
+	"image" : "4_1/elvisred.jpg",
+	"disciplines": ["graphic design", "digital", "typography"]
+	
+
+},
+{ 
+	"Daynumber" : 18,
+	"source" : "sourcelink", 
+	"image" : "4_1/fading.jpg",
+	"disciplines": ["graphic design", "digital", "typography"]
+	
+
+},
+{ 
+	"Daynumber" : 18,
+	"source" : "sourcelink", 
+	"image" : "4_1/expire.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 18,
+	"source" : "sourcelink", 
+	"image" : "4_1/colorpl.jpg",
+	"disciplines": ["graphic design", "digital", "typography",]
+	
+
+},
+{ 
+	"Daynumber" : 18,
+	"source" : "sourcelink", 
+	"image" : "4_1/collageho.jpg",
+	"disciplines": ["fine art", "two dimensional"]
 	
 
 },
@@ -1121,17 +1597,178 @@ var collection = [
 { 
 	"Daynumber" : 19,
 	"source" : "sourcelink", 
-	"image" : "4_1/wklein.jpg",
-	"disciplines": ["print", "typography"]
+	"image" : "4_1/arrange.jpg",
+	"disciplines": ["fine art", "two dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 19,
+	"source" : "sourcelink", 
+	"image" : "4_1/clock.jpg",
+	"disciplines": ["graphic design", "digital", "typography"]
+	
+
+},
+{ 
+	"Daynumber" : 19,
+	"source" : "sourcelink", 
+	"image" : "4_1/clockwork.jpg",
+	"disciplines": ["graphic design", "digital", "typography", "photography"]
+	
+
+},
+{ 
+	"Daynumber" : 19,
+	"source" : "sourcelink", 
+	"image" : "4_1/alien.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 19,
+	"source" : "sourcelink", 
+	"image" : "4_1/andytot.jpg",
+	"disciplines": ["graphic design", "digital", "typography",]
+	
+
+},
+{ 
+	"Daynumber" : 19,
+	"source" : "sourcelink", 
+	"image" : "4_1/angel.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 19,
+	"source" : "sourcelink", 
+	"image" : "4_1/arielle.jpg",
+	"disciplines": ["photography", "art", "documentary"]
 	
 
 },
 /////DAY 20//////
 { 
+	"Daynumber" : 20,
+	"source" : "sourcelink", 
+	"image" : "4_1/bluemas.jpg",
+	"disciplines": ["fine art", "two dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 20,
+	"source" : "sourcelink", 
+	"image" : "4_1/blacksh.jpg",
+	"disciplines": ["fine art", "two dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 20,
+	"source" : "sourcelink", 
+	"image" : "4_1/azwest.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental", "three dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 20,
+	"source" : "sourcelink", 
+	"image" : "4_1/bauhaus.jpg",
+	"disciplines": ["graphic design", "digital", "typography", "print"]
+	
+
+},
+{ 
+	"Daynumber" : 20,
+	"source" : "sourcelink", 
+	"image" : "4_1/bib.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental"]
+	
+
+},
+{ 
+	"Daynumber" : 20,
+	"source" : "sourcelink", 
+	"image" : "4_1/bigmask.jpg",
+	"disciplines": ["fine art", "two dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 20,
+	"source" : "sourcelink", 
+	"image" : "4_1/bill.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental"]
+	
+
+},
+{ 
+	"Daynumber" : 20,
+	"source" : "sourcelink", 
+	"image" : "4_1/bjork copy.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental"]
+	
+
+},
+/////DAY 21//////
+{ 
 	"Daynumber" : 21,
 	"source" : "sourcelink", 
-	"image" : "4_1/wklein.jpg",
-	"disciplines": ["print", "typography"]
+	"image" : "4_1/bugim.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental"]
+	
+
+},
+{ 
+	"Daynumber" : 21,
+	"source" : "sourcelink", 
+	"image" : "4_1/bluepage.jpg",
+	"disciplines": ["photography", "graphic design", "digital", "typography", "print"]
+	
+
+},
+{ 
+	"Daynumber" : 21,
+	"source" : "sourcelink", 
+	"image" : "4_1/bluur.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental"]
+	
+
+},
+{ 
+	"Daynumber" : 21,
+	"source" : "sourcelink", 
+	"image" : "4_1/bobart.jpg",
+	"disciplines": ["fine art", "two dimensional"]
+	
+
+},
+{ 
+	"Daynumber" : 21,
+	"source" : "sourcelink", 
+	"image" : "4_1/bomb.jpg",
+	"disciplines": ["photography", "art", "documentary", "experimental"]
+	
+
+},
+{ 
+	"Daynumber" : 21,
+	"source" : "sourcelink", 
+	"image" : "4_1/boyscry.jpg",
+	"disciplines": ["graphic design", "digital", "typography", "print"]
+	
+
+},
+{ 
+	"Daynumber" : 21,
+	"source" : "sourcelink", 
+	"image" : "4_1/brucelee.jpg",
+	"disciplines": ["graphic design", "digital", "typography", "print"]
 	
 
 },
@@ -1139,11 +1776,68 @@ var collection = [
 { 
 	"Daynumber" : 22,
 	"source" : "sourcelink", 
-	"image" : "4_1/wklein.jpg",
-	"disciplines": ["print", "typography"]
+	"image" : "4_1/cambell.jpg",
+	"disciplines": ["fine art", "two dimensional",]
 	
 
 },
+{ 
+	"Daynumber" : 22,
+	"source" : "sourcelink", 
+	"image" : "4_1/civildis.jpg",
+	"disciplines": ["fine art", "three dimensional", "photography", "art", "documentary"]
+	
+
+},
+{ 
+	"Daynumber" : 22,
+	"source" : "sourcelink", 
+	"image" : "4_1/boxed.jpg",
+	"disciplines": ["graphic design", "digital", "typography", "print"]
+	
+
+},
+{ 
+	"Daynumber" : 22,
+	"source" : "sourcelink", 
+	"image" : "4_1/boyscry.jpg",
+	"disciplines": ["graphic design", "digital", "typography", "print"]
+	
+
+},
+{ 
+	"Daynumber" : 22,
+	"source" : "sourcelink", 
+	"image" : "4_1/brains.jpg",
+	"disciplines": ["photography", "art", "documentary"]
+	
+
+},
+{
+	"Daynumber" : 22,
+	"source" : "sourcelink", 
+	"image" : "4_1/coll.jpg",
+	"disciplines": ["graphic design", "digital", "fine art", "two dimensional", "photography", "art", "experimental"]
+	
+
+},
+{ 
+	"Daynumber" : 22,
+	"source" : "sourcelink", 
+	"image" : "4_1/darkmatter.jpg",
+	"disciplines": ["fine art", "two dimensional", "photography", "art", "experimental"]
+	
+
+},
+{ 
+	"Daynumber" : 22,
+	"source" : "sourcelink", 
+	"image" : "4_1/demaria.jpg",
+	"disciplines": ["photography", "experimental"]
+	
+
+},
+
 /////DAY 23//////
 { 
 	"Daynumber" : 23,
@@ -1177,8 +1871,8 @@ var collection = [
 	
 
 },
-{ 
-	"Daynumber" : 24,
+{
+	"Daynumber" : 23,
 	"source" : "sourcelink", 
 	"image" : "4_1/highbook.jpg",
 	"disciplines": ["graphic design", "digital", "typography"]
@@ -1186,7 +1880,7 @@ var collection = [
 
 },
 { 
-	"Daynumber" : 24,
+	"Daynumber" : 23,
 	"source" : "sourcelink", 
 	"image" : "4_1/baes.jpg",
 	"disciplines": ["fine art", "two dimensional"]
@@ -1194,7 +1888,7 @@ var collection = [
 
 },
 { 
-	"Daynumber" : 24,
+	"Daynumber" : 23,
 	"source" : "sourcelink", 
 	"image" : "4_1/amphi.jpg",
 	"disciplines": ["graphic design", "digital", "print"]
@@ -1528,7 +2222,7 @@ var collection = [
 
 },
 { 
-	"Daynumber" : 2,
+	"Daynumber" : 29,
 	"source" : "sourcelink", 
 	"image" : "4_1/bagg.jpg",
 	"disciplines": ["photography", "art", "documentary", "experimental", "performance"]
